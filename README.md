@@ -24,3 +24,9 @@ HTTP authentication schemes provided in Django Rest Framework.
 6. Start the Django application.
     `./manage.py runserver`
 
+# References
+* Lab 9: https://uofa-cmput404.github.io/lab-9-authentication.html
+* Lab 9 video: https://drive.google.com/drive/folders/1IIHNpGMBtx-xQ1-sAhVDDrlsWUBXyrAE
+* https://www.django-rest-framework.org/
+* https://developer.mozilla.org/en-US/docs/Web/HTTP/Authentication#basic_authentication_scheme
+* https://www.django-rest-framework.org/api-guide/authentication/#tokenauthentication
